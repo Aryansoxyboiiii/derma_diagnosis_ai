@@ -5,12 +5,12 @@
 
 ## 📌 Overview
 
-**DermaDiagnosis AI** is an interpretable machine learning system that predicts six common dermatological conditions based on patient symptoms — and *explains* how it reached the decision.
+**DermaDiagnosis AI** is an interpretable machine learning system that predicts common dermatological conditions based on patient symptoms  and *explains* how it reached the decision.
 
-Built with a strong focus on **explainability**, this tool uses **SHAP** to highlight which symptoms influenced the model’s prediction most. It’s an early prototype of a larger vision: a scalable, AI-driven medical diagnostic platform.
+Built with a strong focus on **explainability**, this tool uses **SHAP** to highlight which symptoms influenced the model’s prediction. It’s an early prototype of a larger vision: a scalable, AI-driven medical diagnostic platform.
 
 
-Due to the lack of large, diverse medical datasets, this version is focused on **dermatology**, but the modular backend is designed to adapt to more complex multi-system medical data.
+Due to the lack of large, diverse medical datasets, this version is focused on **dermatology**
 
 ---
 
